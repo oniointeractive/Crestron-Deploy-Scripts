@@ -1,4 +1,4 @@
-# Crestron-Deploy-Scripts
+# Crestron Deploy Scripts
 
 ## How to use scripts?
 
